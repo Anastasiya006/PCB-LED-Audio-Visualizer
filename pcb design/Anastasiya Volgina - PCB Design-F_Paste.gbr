@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-05-10T09:20:42-04:00*%
+%TF.ProjectId,Anastasiya Volgina - PCB Design,416e6173-7461-4736-9979-6120566f6c67,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-05-10 09:20:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,2.200000X2.800000*%
+%ADD11R,2.800000X2.800000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X256100000Y-162200000D03*
+X258100000Y-154800000D03*
+D11*
+X248700000Y-154800000D03*
+%TD*%
+M02*
