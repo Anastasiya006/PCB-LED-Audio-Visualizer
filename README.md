@@ -10,7 +10,7 @@ A custom audio visualizer printed circuit board (PCB), designed using KiCad and 
 - **8x8 RGB LED Matrix**: dynamic visualization of audio signals
 - **3.5mm Audio Jack**: allows for audio input from external devices
 
-## PCB Design
+## Design
 ### Circuit Schematic
 <img width="750" alt="circuit schematic" src="https://github.com/user-attachments/assets/a67aba29-bf09-4e32-831c-4a721fceff6b"/>
 
